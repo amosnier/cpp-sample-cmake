@@ -1,0 +1,11 @@
+#include <iostream>
+
+static void g()
+{
+}
+
+int main()
+{
+	std::cout << "Hello, world!" << std::endl;
+	g();
+}
